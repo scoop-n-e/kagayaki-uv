@@ -17,8 +17,8 @@
     "autoDocstring.docstringFormat": "google",
     "python.analysis.typeCheckingMode": "standard",
     "python.analysis.extraPaths" : [
-        ".venv/lib64/python3.12/site-packages",
-        ".venv/lib/python3.12/site-packages",
+        ".venv/lib64/python3.11/site-packages",
+        ".venv/lib/python3.11/site-packages",
     ],
     "files.insertFinalNewline": true,
     "files.trimTrailingWhitespace": true,
