@@ -22,4 +22,5 @@
     ],
     "files.insertFinalNewline": true,
     "files.trimTrailingWhitespace": true,
+    "python.languageServer": "Pylance",
 }
