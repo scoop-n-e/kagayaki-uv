@@ -1,0 +1,18 @@
+{
+    "recommendations": [
+        "ms-python.python",
+        "charliermarsh.ruff",
+        "codezombiech.gitignore",
+        "eamodio.gitlens",
+        "kevinrose.vsc-python-indent",
+        "mosapride.zenkaku",
+        "ms-vscode-remote.remote-containers",
+        "njpwerner.autodocstring",
+        "oderwat.indent-rainbow",
+        "shardulm94.trailing-spaces",
+        "usernamehw.errorlens",
+        "pkief.material-icon-theme",
+        "yzhang.markdown-all-in-one",
+        "tamasfe.even-better-toml",
+    ]
+}
